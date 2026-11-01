@@ -1,0 +1,8 @@
+{
+  "name": "LifePilot AI",
+  "description": "An intelligent personal agent that automates daily workflows, manages schedules, and executes complex tasks with your approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
